@@ -21,11 +21,8 @@ Provide a brief overview of what your project is about. Include its purpose, key
 
 List the key features of your project. This could include functionalities, tools, APIs, or any notable aspects.
 
-- Feature 1
-- Feature 2
-- ...
-
-## Technologies Used
+- Inventory Management System
+ Technologies Used
 
 Outline the technologies, frameworks, libraries, or tools used in your project. Include versions if applicable.
 
@@ -52,9 +49,7 @@ Provide step-by-step instructions on how to set up and run your project locally.
 
 Explain how to use your application. Provide examples or screenshots if necessary to guide users through the functionality.
 
-## Screenshots
 
-Include screenshots or gifs of your application to visually demonstrate its features. This section is optional but highly recommended.
 
 ## Contributing
 
